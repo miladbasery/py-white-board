@@ -33,5 +33,5 @@ run the project
 
 ## Authors
 
-- [Atox Group](https://www.github.com/octokatherine)
+- [Atox Group](http://T.me/channelATOX)
 
